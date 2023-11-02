@@ -1,0 +1,101 @@
+.cabecario{
+    background-color: #320984;
+    height: 90px;
+    display: flex;
+}
+
+body{
+    margin:0%;
+}
+
+li{
+    display: block;
+    display: inline;
+    color:white;
+    margin: 15px;
+    font-size: 15px;
+}
+
+ul{
+    padding: 0%;
+    margin: 0%;
+    margin-top: 35px;
+}
+
+.logo{
+    font-family: 'Fredoka', sans-serif;
+    color:#F3F6FA;
+    font-size: 70px;
+    width: 60%;
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+    color:aliceblue;
+}
+
+.banner{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../imagem/predioifrn.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.logoifrn{
+    height: 60px;
+    width: 50px;
+    margin-left: 40px;
+    padding-left: 40px;
+    margin-top: 40px;
+}
+
+.logoifrn2{
+    width: 500px;
+    height: 290px;
+    display: inline-flex;
+}
+
+.linha{
+    border-left: 3px solid white;
+    height: 300px;
+    position:absolute;
+    left:50%;
+    margin-left: 3px;
+    top: 150px;
+    float: left;
+}
+
+p{
+    display: inline;
+    color:white;
+}
+
+h1{
+    color:white;
+    margin:0%;
+    margin-left: 40px;
+    padding-left: 40px;
+    font-size: 50px;
+}
+
+.text{
+    margin-top: 67px;
+    margin-left: 2px;
+}
+
+.text2{
+    margin-top:72px;
+    font-size: smaller;
+    margin-left: 15px;
+}
+
+.textin1{
+    font-size: small;
+}
+
+
+
+
